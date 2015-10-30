@@ -12,3 +12,6 @@ D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與�
 C:\Users\user\Downloads\[CS261]2015-10-27\Example02\bin\Debug\Example02.exe.config
 C:\Users\user\Downloads\[CS261]2015-10-27\Example02\obj\Debug\Example02.exe
 C:\Users\user\Downloads\[CS261]2015-10-27\Example02\obj\Debug\Example02.pdb
+C:\Users\user\Desktop\github\cs261\[CS261]2015-10-27\Example02\bin\Debug\Example02.exe.config
+C:\Users\user\Desktop\github\cs261\[CS261]2015-10-27\Example02\obj\Debug\Example02.exe
+C:\Users\user\Desktop\github\cs261\[CS261]2015-10-27\Example02\obj\Debug\Example02.pdb
