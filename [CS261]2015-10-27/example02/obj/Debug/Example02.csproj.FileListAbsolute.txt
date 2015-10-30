@@ -1,0 +1,14 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\bin\Debug\Example02.exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\bin\Debug\Example02.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\bin\Debug\Example02.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\bin\Debug\GuyLibrary.dll
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\bin\Debug\GuyLibrary.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\obj\Debug\Example02.Form1.resources
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\obj\Debug\Example02.Properties.Resources.resources
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\obj\Debug\Example02.csproj.GenerateResource.Cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\obj\Debug\Example02.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\Example02\obj\Debug\Example02.pdb
+C:\Users\user\Downloads\[CS261]2015-10-27\Example02\bin\Debug\Example02.exe.config
+C:\Users\user\Downloads\[CS261]2015-10-27\Example02\obj\Debug\Example02.exe
+C:\Users\user\Downloads\[CS261]2015-10-27\Example02\obj\Debug\Example02.pdb

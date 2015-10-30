@@ -1,0 +1,5 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\GuyLibrary\bin\Debug\GuyLibrary.dll
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\GuyLibrary\bin\Debug\GuyLibrary.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\GuyLibrary\obj\Debug\GuyLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\GuyLibrary\obj\Debug\GuyLibrary.dll
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-27\範例程式碼\[CS261]2015-10-27\GuyLibrary\obj\Debug\GuyLibrary.pdb
